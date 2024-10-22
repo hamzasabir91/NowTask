@@ -21,7 +21,7 @@ namespace Infra.Repo.Commands
             try
             {
                 var properties = typeof(T).GetProperties()
-                                          .Where(p => p.Name != "Id");
+                                          .Where(p => p.Name != "id");
                 var columns = string.Join(", ", properties.Select(p => p.Name));
                 var parameters = string.Join(", ", properties.Select(p => "@" + p.Name));
                 var query = $"INSERT INTO {typeof(T).Name}s ({columns}) VALUES ({parameters})";
