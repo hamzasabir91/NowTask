@@ -1,0 +1,11 @@
+C:\Users\Hamza\source\repos\Now.Domain\bin\Debug\net8.0\Now.Domain.deps.json
+C:\Users\Hamza\source\repos\Now.Domain\bin\Debug\net8.0\Now.Domain.dll
+C:\Users\Hamza\source\repos\Now.Domain\bin\Debug\net8.0\Now.Domain.pdb
+C:\Users\Hamza\source\repos\Now.Domain\obj\Debug\net8.0\Now.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\Now.Domain\obj\Debug\net8.0\Now.Domain.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\Now.Domain\obj\Debug\net8.0\Now.Domain.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\Now.Domain\obj\Debug\net8.0\Now.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\Now.Domain\obj\Debug\net8.0\Now.Domain.dll
+C:\Users\Hamza\source\repos\Now.Domain\obj\Debug\net8.0\refint\Now.Domain.dll
+C:\Users\Hamza\source\repos\Now.Domain\obj\Debug\net8.0\Now.Domain.pdb
+C:\Users\Hamza\source\repos\Now.Domain\obj\Debug\net8.0\ref\Now.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Hamza\source\repos\Domain.Infra\bin\Debug\net8.0\Now.Infra.deps.json
+C:\Users\Hamza\source\repos\Domain.Infra\bin\Debug\net8.0\Now.Infra.dll
+C:\Users\Hamza\source\repos\Domain.Infra\bin\Debug\net8.0\Now.Infra.pdb
+C:\Users\Hamza\source\repos\Domain.Infra\bin\Debug\net8.0\Now.Domain.dll
+C:\Users\Hamza\source\repos\Domain.Infra\bin\Debug\net8.0\Now.Domain.pdb
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\Now.Infra.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\Now.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\Now.Infra.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\Now.Infra.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\Now.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\Now.Infra.csproj.Up2Date
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\Now.Infra.dll
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\refint\Now.Infra.dll
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\Now.Infra.pdb
+C:\Users\Hamza\source\repos\Domain.Infra\obj\Debug\net8.0\ref\Now.Infra.dll
+C:\Users\Hamza\source\repos\Domain.Infra\bin\Debug\net8.0\Now.Application.dll
+C:\Users\Hamza\source\repos\Domain.Infra\bin\Debug\net8.0\Now.Application.pdb

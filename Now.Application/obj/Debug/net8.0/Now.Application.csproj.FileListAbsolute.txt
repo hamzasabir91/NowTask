@@ -1,0 +1,15 @@
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\Now.Application.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\Now.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\Now.Application.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\Now.Application.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\Now.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\Now.Application\bin\Debug\net8.0\Now.Application.deps.json
+C:\Users\Hamza\source\repos\Now.Application\bin\Debug\net8.0\Now.Application.dll
+C:\Users\Hamza\source\repos\Now.Application\bin\Debug\net8.0\Now.Application.pdb
+C:\Users\Hamza\source\repos\Now.Application\bin\Debug\net8.0\Now.Domain.dll
+C:\Users\Hamza\source\repos\Now.Application\bin\Debug\net8.0\Now.Domain.pdb
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\Now.Appl.50557400.Up2Date
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\Now.Application.dll
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\refint\Now.Application.dll
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\Now.Application.pdb
+C:\Users\Hamza\source\repos\Now.Application\obj\Debug\net8.0\ref\Now.Application.dll
